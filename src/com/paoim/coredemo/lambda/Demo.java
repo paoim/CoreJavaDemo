@@ -1,7 +1,7 @@
 package com.paoim.coredemo.lambda;
 
-import com.paoim.coredemo.lambda.inline.InlineCodeDemo;
-import com.paoim.coredemo.lambda.methodreference.MethodReferenceDemo;
+import com.pao.coredemo.lambda.inline.InlineCodeDemo;
+import com.pao.coredemo.lambda.methodreference.MethodReferenceDemo;
 
 public class Demo {
 
