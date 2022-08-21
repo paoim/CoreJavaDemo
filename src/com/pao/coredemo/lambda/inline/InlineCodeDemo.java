@@ -1,6 +1,6 @@
 package com.pao.coredemo.lambda.inline;
 
-import com.paoim.coredemo.lambda.Sayable;
+import com.pao.coredemo.lambda.Sayable;
 
 public class InlineCodeDemo {
 

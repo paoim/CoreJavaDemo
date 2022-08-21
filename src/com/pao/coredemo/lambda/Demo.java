@@ -1,4 +1,4 @@
-package com.paoim.coredemo.lambda;
+package com.pao.coredemo.lambda;
 
 import com.pao.coredemo.lambda.inline.InlineCodeDemo;
 import com.pao.coredemo.lambda.methodreference.MethodReferenceDemo;
